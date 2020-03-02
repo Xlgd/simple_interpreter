@@ -5,3 +5,4 @@
 + [实现一个简单的解释器（1）](https://www.cnblogs.com/Xlgd/p/12387570.html)
 + [实现一个简单的解释器（2）](https://www.cnblogs.com/Xlgd/p/12388627.html)
 + [实现一个简单的解释器（3）](https://www.cnblogs.com/Xlgd/p/12389782.html)
++ [实现一个简单的解释器（4）](https://www.cnblogs.com/Xlgd/p/12395338.html)
