@@ -7,3 +7,4 @@
 + [实现一个简单的解释器（3）](https://www.cnblogs.com/Xlgd/p/12389782.html)
 + [实现一个简单的解释器（4）](https://www.cnblogs.com/Xlgd/p/12395338.html)
 + [实现一个简单的解释器（5）](https://www.cnblogs.com/Xlgd/p/12402997.html)
++ [实现一个简单的解释器（6）](https://www.cnblogs.com/Xlgd/p/12411761.html)
